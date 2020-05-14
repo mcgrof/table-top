@@ -15,6 +15,7 @@ You can the design for this on [google docs](https://docs.google.com/drawings/d/
 Below is ASCII art of the dimensions for the
 Autonomous AI Standing Desk Frame - Home Edition.
 
+```
               /             width: 40" - 73"              /
              /-------------------------------------------/
             /|                                          /|
@@ -25,6 +26,7 @@ Autonomous AI Standing Desk Frame - Home Edition.
 base:o 27.5" /                                           /
             /                                           /
            /                                           /
+```
 
 # Peripheral devices
 
