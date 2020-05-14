@@ -68,6 +68,7 @@ We use 40cm of width for the shelf to allow the shelf to be 10cm behind the
 center of the desk.
 
 
+```
                      |
  \   O -  -  -  - - _|_
   |  |\           _______
@@ -77,8 +78,12 @@ center of the desk.
    /|\ |        |
 -------------------------------
 
+```
+
 
 Legend:
+
+```
 
  \ 
   |       This is a chair
@@ -103,6 +108,7 @@ Legend:
  |
 _|_   This represents a monitor
 
+```
 
 Sliding drawer
 --------------
