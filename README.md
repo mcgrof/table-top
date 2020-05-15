@@ -71,11 +71,11 @@ center of the desk.
 
 
 ```
-                     |
- \   O -  -  -  - - _|_
-  |  |\           _______
-  |  | --->  --/     |  
-  |  o   ----------------
+                    |
+ \   0 -  -  -  -------
+  |  o       /      |
+  |  |\___ ==------------
+  |  o  ----------------
    --- \        |
    /|\ |        |
 -------------------------------
@@ -87,6 +87,7 @@ Legend:
 
 ```
 
+
  \ 
   |       This is a chair
   |
@@ -95,20 +96,24 @@ Legend:
    /|\
 
 
- 
- \   O        Person on a chair
-  |  |\
-  |  | --->
-  |  o 
-   --- \ 
+       
+ \   0      Person on a chair
+  |  o    
+  |  |\___ 
+  |  o  
+   --- \
    /|\ |
 
+ 
+  -  -  -     This is the eye line of sight
 
---/   This represents a laptop
+
+  /      This represents a laptop
+==
 
 
  |
-_|_   This represents a monitor
+_|_   This represents additional monitors
 
 ```
 
