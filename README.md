@@ -10,7 +10,7 @@ You can the design for this on [google docs](https://docs.google.com/drawings/d/
 
 ![table-top-v1.8](images/table-top-v1.8.png)
 
-# Autonomous AI Standing Desk Frame - Home Edition ==
+# Autonomous AI Standing Desk Frame - Home Edition
 
 Below is ASCII art of the dimensions for the
 Autonomous AI Standing Desk Frame - Home Edition.
